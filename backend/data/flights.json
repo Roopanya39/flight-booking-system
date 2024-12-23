@@ -1,0 +1,20 @@
+[
+    {
+      "flightNumber": "AI101",
+      "departure": "New York",
+      "arrival": "London",
+      "flightType": "Economy",
+      "dateTime": "2024-12-20T10:30:00Z",
+      "fare": 500
+    },
+    {
+      "flightNumber": "BA202",
+      "departure": "Mumbai",
+      "arrival": "Dubai",
+      "flightType": "Business",
+      "dateTime": "2024-12-21T15:45:00Z",
+      "fare": 1200
+    }
+
+  ]
+  
